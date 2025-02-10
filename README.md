@@ -18,6 +18,9 @@ kevalthumarinventyv-profile_screen/
 ├── learn_widget.xcodeproj/       # Xcode project file
 ```
 
+## Screensort
+![](https://i.imgur.com/t1lbpwt.png)
+
 ## Features
 - Displays a user profile page.
 - Uses assets like images (e.g., `profile.imageset` and `bitcoin.imageset`).
