@@ -19,7 +19,7 @@ kevalthumarinventyv-profile_screen/
 ```
 
 ## Screensort
-![](https://i.imgur.com/t1lbpwt.png)
+![](https://i.imgur.com/DRob8bU.png)
 
 ## Features
 - Displays a user profile page.
